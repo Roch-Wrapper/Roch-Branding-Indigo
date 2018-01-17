@@ -1,0 +1,13 @@
+Package: roch-branding-indigo
+Version: 0.0.5
+Architecture: all
+Maintainer: NE Automation <code@neautomation.com>
+Installed-Size: 107
+Depends: dconf-gsettings-backend | gsettings-backend, roch-wallpapers-indigo | roch-wallpapers
+Conflicts: roch-branding
+Replaces: roch-branding
+Provides: roch-branding
+Section: graphics
+Priority: optional
+Description: Roch Branding
+ This package replace the Ubuntu branding with roch branding

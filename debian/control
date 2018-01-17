@@ -1,0 +1,15 @@
+Source: roch-branding-indigo
+Section: graphics
+Priority: optional
+Maintainer: NE Automation <code@neautomation.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.9.5
+
+Package: roch-branding-indigo
+Architecture: all
+Provides: roch-branding
+Conflicts: roch-branding
+Replaces: roch-branding
+Depends: ${misc:Depends}, roch-wallpapers-indigo | roch-wallpapers
+Description: Roch Branding 
+ This package replace the Ubuntu branding with roch branding

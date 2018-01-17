@@ -1,0 +1,8 @@
+eb11b4fbc0b53289e004d4ab83d2f134  lib/plymouth/themes/default.grub
+293196fe645af634c88cf0e0719fe763  lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script
+55c419868114fce35b062dc213eae223  usr/share/doc/roch-branding-indigo/README
+523f8ac3c4489714d95d1ea0f144ffa0  usr/share/doc/roch-branding-indigo/changelog.gz
+fad07bd402706bba8a0acc2757398d28  usr/share/doc/roch-branding-indigo/copyright
+f25158d563f9590f7347c22ec8aab756  usr/share/glib-2.0/schemas/20_roch_gsettings-desktop-schemas.gschema.override
+c8d510838bc98305c48dd4706643c97d  usr/share/glib-2.0/schemas/50_unity-greeter.gschema.override
+07ce62e2e6890064e11e8bdca19caa79  usr/share/themes/Ambiance/gtk-3.0/apps/gnome-terminal.css
